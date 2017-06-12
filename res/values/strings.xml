@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Fitnet App</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="menu">Menu</string>
+    <string name="autores">Carina Maerro, Richard Valverde</string>
+    <string name="selected_item">Selected item</string>
+    <string name="usuario">Usuario</string>
+    <string name="pass">Clave</string>
+
+    <string-array name="menu">
+        <item>Gestionar</item>
+        <item>Caja</item>
+        <item>Configuracion</item>
+    </string-array>
+
+    <string-array name="gestionar">
+        <item>Clientes</item>
+        <item>Cobros</item>
+    </string-array>
+
+    <string-array name="caja">
+        <item>Movimientos</item>
+    </string-array>
+
+    <string-array name="configuracion">
+        <item>Actividades</item>
+        <item>Usuarios</item>
+        <item>Conceptos</item>
+        <item>Articulos</item>
+    </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="autogestion">Auto Gestión</string>
+    <string name="title">Titulo</string>
+
+</resources>
